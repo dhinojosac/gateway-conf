@@ -198,7 +198,7 @@
 		"server_address": "bidunki.cl",
 		"serv_port_up": 1700,
 		"serv_port_down": 1700,
-		"servers": [
+		"servers": [{
 			"server_address": "bidunki.cl",
 			"serv_port_up": 1700,
 			"serv_port_down": 1700,
