@@ -198,7 +198,22 @@
 		"server_address": "127.0.0.1",
 		"serv_port_up": 1700,
 		"serv_port_down": 1700,
-		"servers": []
+		"servers": [{
+			"server_address": "#bidunki.cl",
+			"serv_port_up": 1700,
+			"serv_port_down": 1700,
+			"serv_enabled": false
+		},{
+			"server_address": "192.168.1.153",
+			"serv_port_up": 1700,
+			"serv_port_down": 1700,
+			"serv_enabled": false
+		},{
+			"server_address": "router.us.thethings.network",
+			"serv_port_up": 1700,
+			"serv_port_down": 1700,
+			"serv_enabled": false
+		} ]
 	}
 
 }
